@@ -1,0 +1,14 @@
+{
+  "name": "206c5f0c74c2eb7e",
+  "main": "206c5f0c74c2eb7e@8487.js",
+  "version": "8487.0.0",
+  "homepage": "https://observablehq.com/d/206c5f0c74c2eb7e",
+  "author": {
+    "name": "ivan pavlov",
+    "url": "https://observablehq.com/@hi932"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
